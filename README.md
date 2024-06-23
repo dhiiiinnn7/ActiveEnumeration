@@ -54,8 +54,8 @@ ActiveEnumeration is a comprehensive tool for active network enumeration and rec
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your_username/ActiveEnumeration.git
-cd ActiveEnumeration
+git clone https://github.com/dhiiiinnn7/ActiveEnumeration.git
+cd ActiveEnumeration.sh
 ```
 
 ### Make the Script Executable
